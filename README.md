@@ -322,7 +322,7 @@ Este proyecto se distribuye bajo licencia **MIT**. Consulte `LICENSE` para más 
 ## 📫 Contacto
 
 **Paola Andrea Ospina Baracaldo** · Maestría en Analítica Aplicada y Gerencia de Ingeniería  
-E-mail: **<tu_correo@ejemplo.com>** · LinkedIn: **<tu_linkedin>**
+LinkedIn: **<https://www.linkedin.com/in/paola-andrea-ospina-baracaldo-ingenieria-industrial-maestria-analitica-aplicada/>**
 
 ---
 
